@@ -1,0 +1,8 @@
+1. login to AWS console
+2. search IAM: Identity Access Management
+3. Create a new user and enable programmtically Access, remember the private key and the public key
+4. install AWS Cli
+5. run aws configure and input two keys, keep your private key save
+6. create a AWS S3 bucket, change bucket policy, enable static web hosting, write all traffic to index.html
+7. run: npm run build 
+8. run aws s3 sync build/ s3://'you-bucket-name'

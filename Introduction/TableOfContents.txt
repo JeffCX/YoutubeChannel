@@ -1,0 +1,10 @@
+Part One: Introduction
+Part Two: Why JS and Resource
+Part Three: Why React and Resource
+Part Four: serverless Arch
+Part Five: Create React App
+Part Six: Deploy to Firebase 
+PartSeven: Deploy to Heroic
+Part Eight: Deploy to AWS
+Part Nine: Different Cloud Platform
+Part Ten: Conclusion

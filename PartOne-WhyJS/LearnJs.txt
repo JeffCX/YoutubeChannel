@@ -1,0 +1,8 @@
+Mozilla Doc:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Udemy:
+https://www.udemy.com/modern-javascript/
+
+You do not now JS:
+https://github.com/getify/You-Dont-Know-JS
